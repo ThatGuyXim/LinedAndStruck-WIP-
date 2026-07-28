@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "fun-game",
+    "slug": "snack-8579c77d-0e0c-4f78-9e2d-c2df9fec9040",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.tiredgamedev.snack8579c77d0e0c4f789e2dc2df9fec9040"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "551487cd-abaa-41fa-aa02-73e2d0e2848d"
+      }
+    }
+  }
+}
